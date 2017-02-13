@@ -1,0 +1,30 @@
+{
+  "name": "react-gauge-capacity",
+  "version": "1.0.0",
+  "description": "A react component used to describe the active progress with respect to target capacity in the form of a gauge meter",
+  "main": "lib/react-gauge.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gurpreets/react-gauge-capacity.git"
+  },
+  "keywords": [
+    "React.js",
+    "React",
+    "svg",
+    "gauge",
+    "component",
+    "react-component"
+  ],
+  "author": "Gurpreet <gurpreet.singh1@globalpueblosolutions.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gurpreets/react-gauge-capacity/issues"
+  },
+  "homepage": "https://github.com/Gurpreets/react-gauge-capacity#readme",
+  "devDependencies": {
+    "react": "15.4.2"
+  }
+}
