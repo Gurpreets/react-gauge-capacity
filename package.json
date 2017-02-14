@@ -1,6 +1,6 @@
 {
   "name": "react-gauge-capacity",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "A react component used to describe the active progress with respect to target capacity in the form of a gauge meter",
   "main": "lib/react-gauge.js",
   "scripts": {

@@ -116,7 +116,7 @@ let options = {
 | `contentWidth` | `450` | Width and height of inner image |
 | `svgContainerWidth` | `450` |  Svg container width |
 | `svgContainerHeight` | `450` | Svg container height |
-| `gaugeCenterLineHeight` | `25` | Svg Center Line Y-axis dimensions |
+| `gaugeCenterLineHeight` | `35` | Svg Center Line Y-axis dimensions |
 
 
 
