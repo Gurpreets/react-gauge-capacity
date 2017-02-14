@@ -16,7 +16,7 @@ import ReactGauge from 'react-gauge-test';
 let contWidth = 360;
 let contHeight = 200;
 let gaugeRadius = 135;
-let centerLineHeight = 25;
+let centerLineHeight = 35;
 
 /***************************
 ** Set following variable to make gauge meter responsive 
@@ -45,50 +45,51 @@ let options = {
 	arcStrokeWidth: 40,
 	miniTickLength: 1,
 	miniTickStrokeWidth: 1,
-	tickLabelOffset: 10,
+	tickLabelOffset: 12,
 	scaleDivisionNumber: 5,
 	centralCircleRadius: 10,
-	marks: ["r", "y", "g", "c", "g", "y", "r"],
+	marks: ["-100%", null, null, null, null, null , null, null, "-20%", "-10%", "C", "10%", "20%", null, null, null, null, null , null, null, "100%"],
 	contentWidth: contWidth,
 	svgContainerWidth: contWidth,
 	svgContainerHeight: contHeight,
-	arrowValue: 2.5/6,
+	arrowValue: 86/180,
 	gaugeCenterLineHeight: centerLineHeight,
 	ranges: [{
 			start: 0,
-			end: 1/6,
+			end: 72/180,
 			color: "#f3595b"
 		},
 		{
-			start: 1/6,
-			end: 2/6,
+			start: 72/180,
+			end: 81/180,
 			color: "#ffc875"
 		},
 		{
-			start: 2/6,
-			end: 3/6,
+			start: 81/180,
+			end: 90/180,
 			color: "#83d7c0"
 		},
 		{
-			start: 3/6,
-			end: 3/6,
+			start: 90/180,
+			end: 90/180,
 			color: "#83d7c0"
 		},
 		{
-			start: 3/6,
-			end: 4/6,
+			start: 90/180,
+			end: 99/180,
 			color: "#83d7c0"
 		},
 		{
-			start: 4/6,
-			end: 5/6,
+			start: 99/180,
+			end: 108/180,
 			color: "#ffc875"
 		},
 		{
-			start: 5/6,
-			end: 1,
+			start: 108/180,
+			end: 180/180,
 			color: "#f3595b"
 		}]
+
 }
 <ReactGauge {...options} />
 ```
