@@ -17,7 +17,7 @@ $ npm install react-gauge-capacity --save
 
 ```js
 import React, { Component } from 'react';
-import ReactGauge from 'react-gauge-test';
+import ReactGauge from 'react-gauge-capacity';
 
 let contWidth = 360;
 let contHeight = 200;
