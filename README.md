@@ -1,9 +1,9 @@
 # react-gauge-capacity
-Inspired by <a href="https://www.npmjs.com/package/react-gauge-test" target="_blank">react-gauge-test</a>
+Inspired by <a href="https://www.npmjs.com/package/react-gauge-test" target="_blank">react-gauge-test</a>.<br/>
 A react component used to describe the active progress with respect to target capacity in the form of a gauge meter.
 
 <p>
-<img src="https://github.com/Gurpreets/react-gauge-capacity/img/gauge_capacity_img.png" alt="React Gauge Capacity Example" title="React Gauge Capacity Example"/>
+<img src="https://raw.githubusercontent.com/Gurpreets/react-gauge-capacity/master/img/gauge_capacity_img.png" alt="React Gauge Capacity Example" title="React Gauge Capacity Example"/>
 </p>
 
 ## Installation
