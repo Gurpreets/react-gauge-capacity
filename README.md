@@ -5,6 +5,7 @@ A react component used to describe the active progress with respect to target ca
 <p>
 <img src="https://raw.githubusercontent.com/Gurpreets/react-gauge-capacity/master/img/gauge_capacity_img.png" alt="React Gauge Capacity Example" title="React Gauge Capacity Example"/>
 </p>
+<p>Here C -> Target or Capacity</p>
 
 ## Installation
 
