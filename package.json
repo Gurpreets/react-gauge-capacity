@@ -1,7 +1,7 @@
 {
   "name": "react-gauge-capacity",
-  "version": "1.4.0",
-  "description": "A react component used to describe the active progress with respect to target capacity in the form of a gauge meter",
+  "version": "1.5.0",
+  "description": "A React.js gauge component",
   "main": "lib/react-gauge.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
