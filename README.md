@@ -20,7 +20,7 @@ import ReactGauge from 'react-gauge-capacity';
 
 let contWidth = 360;
 let contHeight = 200;
-let gaugeRadius = 135;
+let gaugeRadius = 125;
 let centerLineHeight = 35;
 
 /***************************
@@ -30,14 +30,16 @@ if(window.innerWidth <= 420 && window.innerWidth > 375){
 	contWidth = 340;
 	contHeight = 190;
 	gaugeRadius = 120;
+	centerLineHeight = 30;
 } else if (window.innerWidth <= 375 && window.innerWidth > 320){
 	contWidth = 300;
 	contHeight = 170;
 	gaugeRadius = 100;
+	centerLineHeight = 30;
 } else if (window.innerWidth <= 320){
 	contWidth = 260;
 	contHeight = 155;
-	gaugeRadius = 90;
+	gaugeRadius = 85;
 	centerLineHeight = 20;
 }
 /****************************/
