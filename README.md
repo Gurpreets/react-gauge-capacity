@@ -61,6 +61,7 @@ let options = {
 	svgContainerHeight: contHeight,
 	arrowValue: 86/180,
 	gaugeCenterLineHeight: centerLineHeight,
+	viewBox: "30 0 300 200",
 	ranges: [{
 			start: 0,
 			end: 72/180,
@@ -124,7 +125,7 @@ let options = {
 | `svgContainerWidth` | `450` |  Svg container width |
 | `svgContainerHeight` | `450` | Svg container height |
 | `gaugeCenterLineHeight` | `35` | Svg Center Line Y-axis dimensions |
-
+| `viewBox` | `30 0 200 200` | Svg attribute for responsiveness
 
 
 [![NPM](https://nodei.co/npm/react-gauge-capacity.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/react-gauge-capacity/)
