@@ -1,6 +1,6 @@
 {
   "name": "react-gauge-capacity",
-  "version": "1.8.0",
+  "version": "1.9.0",
   "description": "A React.js gauge component",
   "main": "lib/react-gauge.js",
   "scripts": {
