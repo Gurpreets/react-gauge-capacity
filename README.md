@@ -118,6 +118,7 @@ let options = {
 | `centralCircleRadius` | `10` | Radius of central circle |
 | `isInnerNumbers` | `false` | Tick labels position |
 | `arrowValue` | `0` | Value of gauge |
+| `arrowColor` | `#354357` | Color of arrow |
 | `marks` | `[0, 1, 2, 3, 4, 5, 6]` | Tick labels values |
 | `ranges` | `[{ start: 0, end: 4.5/6, color: "#666" }, { start: 4.5/6, end: 5.5/6, color: "#ffa500" }, { start: 5.5/6, end: 1, color: "#ff0000" }]` | Array of color intervals |
 | `aperture` | `80` | Gap on main arc |
