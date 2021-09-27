@@ -84,6 +84,7 @@ let options = {
   svgContainerWidth: contWidth,
   svgContainerHeight: contHeight,
   arrowValue: 86 / 180,
+  arrowColor: "#354357",
   gaugeCenterLineHeight: centerLineHeight,
   viewBox: "30 0 300 200",
   ranges: [
