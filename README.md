@@ -11,7 +11,7 @@
 ## Installation
 
 ```
-$ npm install react-gauge-capacity --save
+$ npm install --save react-gauge-capacity
 ```
 
 ## Example
