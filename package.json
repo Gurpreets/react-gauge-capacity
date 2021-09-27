@@ -1,7 +1,7 @@
 {
   "name": "react-gauge-capacity",
-  "version": "1.9.0",
-  "description": "A React.js gauge component",
+  "version": "2.0.0",
+  "description": "A React JS gauge component",
   "main": "lib/react-gauge.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,9 +16,12 @@
     "svg",
     "gauge",
     "component",
-    "react-component"
+    "react-component",
+    "measure",
+    "capacity",
+    "gauge meter"
   ],
-  "author": "Gurpreet <gurpreet.singh1@globalpueblosolutions.com>",
+  "author": "Gurpreet Singh<gsingh@covalience.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Gurpreets/react-gauge-capacity/issues"
@@ -26,5 +29,9 @@
   "homepage": "https://github.com/Gurpreets/react-gauge-capacity#readme",
   "devDependencies": {
     "react": "15.4.2"
+  },
+  "dependencies": {
+    "create-react-class": "^15.7.0",
+    "prop-types": "^15.7.2"
   }
 }
