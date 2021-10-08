@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/Gurpreets/react-gauge-capacity#readme",
   "devDependencies": {
-    "react": "15.7.0"
+    "react": "15.4.2"
   },
   "dependencies": {
     "create-react-class": "^15.7.0",
